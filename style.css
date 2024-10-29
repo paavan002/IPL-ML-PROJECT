@@ -1,7 +1,7 @@
 
 /* Center the content */
 body {
-    background-image: url("/static/images/ipl.jpg");
+    background-image: url("ipl.jpg");
     background-size: cover;
     font-family: Arial, sans-serif;
     color: #333;
